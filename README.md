@@ -54,6 +54,7 @@
 - Now go to run `trixsec-ddosbot-v1.py` -
   ```
   $ cd Trixsec-DDOS-BOT
+  $ paste the bot token in config.py file 
   $ python3 trixsec-ddosbot-v1.py
   ```
 
