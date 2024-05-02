@@ -7,7 +7,10 @@
 
 <b>This Tool is made for educational purposes only</b>. Do not attempt to violate the law with anything contained here.!
 </i>
-### Features
+### Features Convert Your Telegram Bot Into DDOS Attack Launching Machine 
+
+### Requirements: Create A Bot From @BotFather and paste the bot token in config.py file 
+
 
 - All Methods
   - HTTP-FLOOD
