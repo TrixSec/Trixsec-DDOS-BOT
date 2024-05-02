@@ -51,8 +51,13 @@
   ```
   git clone https://github.com/TrixSec/Trixsec-DDOS-BOT
   ```
-- Now go to run `bot.py` -
+- Now go to run `trixsec-ddosbot-v1.py` -
   ```
   $ cd Trixsec-DDOS-BOT
   $ python3 trixsec-ddosbot-v1.py
   ```
+
+## JOIN US ON TELEGRAM
+
+
+[![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png)](https://t.me/your_telegram_username)
